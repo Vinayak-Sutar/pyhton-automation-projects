@@ -75,9 +75,5 @@ python brightness_adjust.py
 ```
 Let your laptop automatically adjust brightness for you! 🚀  
 
----
 
-## License  
-This project is open-source. Feel free to modify and improve it!  
-```
 
