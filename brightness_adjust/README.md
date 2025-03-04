@@ -15,6 +15,16 @@ pip install pillow pygame
 ```
 
 ---
+### ⚠️ This script only works on Linux!  
+- **Windows users:** Try adjusting brightness using PowerShell:  
+  ```powershell
+  (Get-WmiObject -Namespace root/WMI -Class WmiMonitorBrightnessMethods).WmiSetBrightness(1, 70)
+  ```
+- **Mac users:** You can change brightness with:  
+  ```sh
+  brightness 0.7
+  ```
+  (Requires `brew install brightness`)
 
 ## How It Works  
 
